@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Seol7523's github stats](https://github-readme-stats.vercel.app/api?username=Seol7523&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol7523&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+

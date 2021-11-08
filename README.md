@@ -21,4 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol7523&layout=compact&theme=dracula)](https://github.com/Seol7523)
 
+## 이메일
+
+네이버 메일 : <seolchaehwan@naver.com>
+
 

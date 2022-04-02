@@ -7,6 +7,8 @@
 여기 이 레포들은 제가 특별히 아끼는 것들입니다. 지금은 별로 없지만 훗날 이 리스트가 길어지기를 바라고 있어요!!
 
 1. [한국어 욕설 필터링](https://github.com/Seol7523/KoreanWordDetection)
+2. [간단한 미로 모듈](https://github.com/Seol7523/SimpleMaze)
+3. [컴퓨터로 해결해본 확률 문제](https://github.com/Seol7523/ProbabilityProblem1)
 
 ## 사용 언어들
 ### Frontend

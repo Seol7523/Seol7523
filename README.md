@@ -2,7 +2,10 @@
 
 ## 나에 대해서
 
-파이썬으로 알고리즘 만드는 걸 좋아합니다. ~~디자인 힘들어요~~
+만들고 싶은게 생기면 일단 해보는 사람입니다.
+게임, 알고리즘등 그때그때 하고 싶은 걸 해봅니다.
+
+~~**다만 디자인은 힘들어요 그러니 제가 작업한 웹페이지는 코드만 보세요**~~
 
 여기 이 레포들은 제가 특별히 아끼는 것들입니다. 지금은 별로 없지만 훗날 이 리스트가 길어지기를 바라고 있어요!!
 
@@ -10,13 +13,35 @@
 2. [간단한 미로 모듈](https://github.com/Seol7523/SimpleMaze)
 3. [컴퓨터로 해결해본 확률 문제](https://github.com/Seol7523/ProbabilityProblem1)
 
-## 사용 언어들
-### Frontend
+## 사용 해본 것들(잘 한다는 말이 아니랍니다)
+
+### 언어들
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### Backend
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotilin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
+
+### 프레임 워크라고 할 수 있는 것들(슬슬 TMI)
+
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 그 외 사용하는 툴(있어보이고 싶어서 만든 칸)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visualstudio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## 제 여러 기록들
 [![Seol7523's github stats](https://github-readme-stats.vercel.app/api?username=Seol7523&show_icons=true&theme=dracula)](https://github.com/Seol7523)

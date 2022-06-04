@@ -25,7 +25,7 @@
 ![Kotlin](https://img.shields.io/badge/kotilin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23#4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 사용가능한 프레임 워크라고 할 수 있는 것들
 

@@ -40,9 +40,9 @@
 
 
 ## 제 여러 기록들
-[![Seol7523's github stats](https://github-readme-stats.vercel.app/api?username=Seol7523&show_icons=true&theme=dracula)](https://github.com/Seol7523)
+[![Seol7523's github stats](https://github-readme-stats.vercel.app/api?username=seolmango&show_icons=true&theme=dracula)](https://github.com/seolmango)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol7523&layout=compact&theme=dracula)](https://github.com/Seol7523)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolmango&layout=compact&theme=dracula)](https://github.com/seolmango)
 
 ## 이메일
 

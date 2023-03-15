@@ -13,6 +13,7 @@
 6. [인생 힘들게 살게하는 볼륨버튼](https://github.com/seolmango/hardmodelife/tree/main/physicsVolume)
 7. [잡다한 코드들로 가득한 디스코드 봇](https://github.com/seolmango/JJAPDABOT)
 8. [~~발적화~~ io 게임](https://github.com/seolmango/switchio)
+9. [딥러닝을 사용하지 않고 한국어 욕설 필터링2](https://github.com/seolmango/badwordDetection2)
 
 ## 제 여러 기록들
 [![Seol7523's github stats](https://github-readme-stats.vercel.app/api?username=seolmango&show_icons=true&theme=dracula)](https://github.com/seolmango)

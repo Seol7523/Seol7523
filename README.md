@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seolmango&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Make%20Anything%20I%20Want!&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DAC3FA&height=300&section=header&text=seolmango&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Make%20Anything%20I%20Want!&descAlignY=60&descAlign=50)
 <p align='center'> Contact Me And My Team Members </p>
 <p align='center'>
   <a href="mailto:seolchaehwan@naver.com">
@@ -28,7 +28,7 @@ Also, I am a member of a team “0-inf” where people like me gather.
   <h2 align='center'>My Funny Projects</h1>
   <ul>
     <li><a href="https://github.com/seolmango/UnusualChromeExtension">UnusualChromeExtension</a>: A collection of Chrome extensions that I made without thinking.</li>
-    <li><a href"https://github.com/seolmango/hardmodelife">HardModeLife</a>: A project to make the world more dynamic.</li>
+    <li><a href="https://github.com/seolmango/hardmodelife">HardModeLife</a>: A project to make the world more dynamic.</li>
   </ul>
 </div>
 <h2 align='center'>Still Interested In Me?</h2>

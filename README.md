@@ -24,7 +24,7 @@ Also, I am a member of a team “0-inf” where people like me gather.
     <li><a href="https://github.com/seolmango/fileRenamer">FileREnamer</a>: A Python program that can change the names of files in bulk using regular expressions.</li>
     <li><a href="https://github.com/0-inf/JJAPDABOT">JJAPDABOT</a>: A discord bot that have a lots of function.</li>
     <li><a href="https://github.com/0-inf/switchio">switchio</a>: An IO game that based on tag game.</li>
-    <li><a href="https://github.com/seolmango/galaxy_simulation"></a>: A Galactic Collision Simulation</li>
+    <li><a href="https://github.com/seolmango/galaxy_simulation">galaxy_simulation</a>: A Galactic Collision Simulation</li>
   </ul>
   <h2 align='center'>My Funny Projects</h1>
   <ul>
